@@ -6,7 +6,7 @@ With this lesson we will continue through our journey through Redux. By the end 
 this lesson, you will be able to:
 
   * Delete individual elements
-
+ 
 ## Review and Goal
 
 Throughout each code along in this section, notice that we are never updating
